@@ -1,7 +1,0 @@
-// BREAKPOINTS
-@mixin bp($val) {
-
-	// Just use foundation's breakpoint mixin
-	@include breakpoint($val);
-
-}
